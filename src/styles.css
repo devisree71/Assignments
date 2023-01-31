@@ -1,0 +1,44 @@
+
+
+.box
+{
+   
+    width: 300px;
+    height:350px;
+    text-align: center;
+     box-shadow:10px 10px 10px 10px rgb(175, 170, 170); 
+    margin:10% 80% 7% 35%;
+    
+}
+ .img
+{
+    width:300px;
+    height:160px;
+    
+}
+h2{
+    text-align: left ;
+    margin-left:15px;
+    font-size: 15px;
+
+}
+p{
+  font-size:15px ;
+  margin-left:15px;
+  text-align: left;
+}
+ button{
+    margin-bottom:15px;
+    padding: 5px;
+    border:2px solid greenyellow;
+    
+}
+ button:hover{
+    background-color: greenyellow;
+}
+a{
+  text-decoration: none;
+  margin-right:60px;
+  font-size: 15px;
+ 
+}
